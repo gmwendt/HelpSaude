@@ -1,0 +1,7 @@
+{
+  "name": "ClassiSaude",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
